@@ -11,5 +11,13 @@ public class Strings {
 
         System.out.println(mensaje);
 
+        if (name.equals("Luis")) {
+            System.out.println("El nombre es Luis");
+        }
+
+        if (name.equalsIgnoreCase("luis")) {
+            System.out.println("El nombre es Luis (Si importar mayuscula)");
+        }
+
     }
 }
