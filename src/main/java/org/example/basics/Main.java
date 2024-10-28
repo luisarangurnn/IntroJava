@@ -1,4 +1,4 @@
-package org.vir;
+package org.example.basics;
 
 public class Main {
 
